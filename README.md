@@ -10,7 +10,7 @@ This project, we learn all the best practise for code review , In the sense that
 
 ## Live Demo
 
-[Live Demo Link](https://jenadiusnicholaus.github.io/my-portfolio-site/)
+[Live Demo Link](https://jenadiusnicholaus.github.io/learn-code-review/)
 
 ## Prerequisites
 
